@@ -2,9 +2,9 @@
 
 ![Soundness](https://pbs.twimg.com/profile_banners/1816195496828100613/1739868318/1500x500)
 
-> Make new Repo on your Github
+First, Make new Repo on your Github
 
-> Go to CodeSpace > https://github.com/codespaces
+Then, Go to CodeSpace > https://github.com/codespaces
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
